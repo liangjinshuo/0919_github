@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1a36b3__c__function_aaditv6quvcau",
+  "apiName": "node200814long",
+  "label": {
+    "zh_CN": "node200814long",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

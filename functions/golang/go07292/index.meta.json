@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1a36b3__c__function_aadircef7o4dw",
+  "apiName": "go07292",
+  "label": {
+    "zh_CN": "go07292",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

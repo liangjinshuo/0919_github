@@ -1,0 +1,16 @@
+{
+  "apiID": "package_1a36b3__c__function_aadiqgsblcqdw",
+  "apiName": "go0724long",
+  "label": {
+    "zh_CN": "go0724long",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
