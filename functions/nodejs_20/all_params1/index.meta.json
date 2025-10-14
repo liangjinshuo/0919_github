@@ -1,0 +1,197 @@
+{
+  "apiID": "package_1a36b3__c__function_aadi5s7wuzaks",
+  "apiName": "all_params1",
+  "label": {
+    "zh_CN": "all_params1",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [
+    {
+      "key": "params_text",
+      "type": "Text",
+      "required": true,
+      "label": "文本入参",
+      "description": ""
+    },
+    {
+      "key": "params_multilingual",
+      "type": "Multilingual",
+      "required": true,
+      "label": "多语文本入参",
+      "description": ""
+    },
+    {
+      "key": "params_richtext",
+      "type": "RichText",
+      "required": true,
+      "label": "富文本入参",
+      "description": ""
+    },
+    {
+      "key": "params_datatime",
+      "type": "DateTime",
+      "required": true,
+      "label": "日期时间入参",
+      "description": ""
+    },
+    {
+      "key": "params_boolean",
+      "type": "Boolean",
+      "required": true,
+      "label": "布尔入参",
+      "description": ""
+    },
+    {
+      "key": "params_mobilenumber",
+      "type": "MobileNumber",
+      "required": true,
+      "label": "手机号码入参",
+      "description": ""
+    },
+    {
+      "key": "params_record",
+      "type": "Record",
+      "required": true,
+      "label": "记录入参",
+      "description": "",
+      "objectApiName": "object_4dffd36558c"
+    },
+    {
+      "key": "params_RecordList",
+      "type": "RecordList",
+      "required": true,
+      "label": "记录列表入参",
+      "description": "",
+      "objectApiName": "object_4dffd36558c",
+      "fieldApiNames": [
+        "email_558cce48814"
+      ]
+    },
+    {
+      "key": "params_email",
+      "type": "Email",
+      "label": "邮箱",
+      "required": true,
+      "description": ""
+    },
+    {
+      "key": "params_bigint",
+      "type": "BigInt",
+      "label": "整数",
+      "required": true,
+      "description": ""
+    },
+    {
+      "key": "params_Decimal",
+      "type": "Decimal",
+      "label": "定点数",
+      "required": true,
+      "description": ""
+    },
+    {
+      "key": "params_number",
+      "type": "Number",
+      "label": "浮点数",
+      "required": true,
+      "description": ""
+    },
+    {
+      "key": "params_data",
+      "type": "Date",
+      "label": "日期",
+      "required": true,
+      "description": ""
+    }
+  ],
+  "output": [
+    {
+      "key": "params_text",
+      "type": "Text",
+      "label": "文本入参",
+      "description": ""
+    },
+    {
+      "key": "params_multilingual",
+      "type": "Multilingual",
+      "label": "多语文本入参",
+      "description": ""
+    },
+    {
+      "key": "params_richtext",
+      "type": "RichText",
+      "label": "富文本入参",
+      "description": ""
+    },
+    {
+      "key": "params_datatime",
+      "type": "DateTime",
+      "label": "日期时间入参",
+      "description": ""
+    },
+    {
+      "key": "params_boolean",
+      "type": "Boolean",
+      "label": "布尔入参",
+      "description": ""
+    },
+    {
+      "key": "params_mobilenumber",
+      "type": "MobileNumber",
+      "label": "手机号码入参",
+      "description": ""
+    },
+    {
+      "key": "params_record",
+      "type": "Record",
+      "label": "记录入参",
+      "description": "",
+      "objectApiName": "object_4dffd36558c"
+    },
+    {
+      "key": "params_RecordList",
+      "type": "RecordList",
+      "label": "记录列表入参",
+      "description": "",
+      "objectApiName": "object_4dffd36558c",
+      "fieldApiNames": [
+        "email_558cce48814"
+      ]
+    },
+    {
+      "key": "params_email",
+      "type": "Email",
+      "label": "邮箱",
+      "description": ""
+    },
+    {
+      "key": "params_bigint",
+      "type": "BigInt",
+      "label": "整数",
+      "description": ""
+    },
+    {
+      "key": "params_Decimal",
+      "type": "Decimal",
+      "label": "定点数",
+      "description": ""
+    },
+    {
+      "key": "params_number",
+      "type": "Number",
+      "label": "浮点数",
+      "description": ""
+    },
+    {
+      "key": "params_data",
+      "type": "Date",
+      "label": "日期",
+      "description": ""
+    }
+  ]
+}
